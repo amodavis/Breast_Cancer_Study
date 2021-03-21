@@ -1,5 +1,9 @@
-# Breast_Cancer_Study
+# Breast_Cancer_Study - A Logistic Regression Machine Learning Project
 
-Data Mining Case Study:  Analyze data to determine factors that increase survival of breast cancer patients
+## Description
+Analyze data to determine factors that increase survival of breast cancer patients.
 
-DSC550 - Machine Learning for Logistic Regression - Python
+## Programming Languages
+- Python
+
+## Files
