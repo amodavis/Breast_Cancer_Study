@@ -7,6 +7,5 @@ Analyze data to determine factors that increase survival of breast cancer patien
 - Python
 
 ## Files
-- Final_Project - DavisA.ipynb
-- Final_Project - DavisA.pdf
+- Breast Cancer Case Study.ipynb
 - Breast Cancer Case Study.docx
