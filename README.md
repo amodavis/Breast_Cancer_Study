@@ -7,5 +7,6 @@ Analyze data to determine factors that increase survival of breast cancer patien
 - Python
 
 ## Files
-- Breast Cancer Case Study.ipynb - Jupyter Notebook Python file
-- Breast Cancer Case Study.docx - Study Methodology
+- Breast Cancer Case Study Methodology.pdf - Read for some background and methodology
+- Breast Cancer Case Study.ipynb - Jupyter Notebook Python file - EDA & Modeling
+- Breast Cancer Case Study Notebook.pdf - PDF of EDA & Modeling
